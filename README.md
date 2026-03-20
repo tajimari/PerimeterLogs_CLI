@@ -4,7 +4,7 @@
 # Network Security Essentials - PerimeterLog Challenge
 
 ## Overview
-In this room I investigate perimeter logs to determine if there has been a breach into the network, and to investigate what techniques the adversary used.
+In this room I investigate perimeter logs to determine if there has been a breach into the network, using the command line.
 
 ## Skills Demonstrated
 - Analyzing logs for suspicious or abnormal behavior
