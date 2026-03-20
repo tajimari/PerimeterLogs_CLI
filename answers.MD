@@ -1,4 +1,4 @@
-## Snapped Phishing-Line Step by Step Documentation and Answers
+## Perimeter Log Challenge Step by Step Documentation and Answers
 
 ### 1) Examine the firewall logs. What external IP performed the most reconnaissance?
 
